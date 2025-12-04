@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "スノースマイル",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2025-12-04T20:24:52.627633Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Snow Smile [スノースマイル]",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_Snow_Smile_[スノースマイル]_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スノースマイル",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_スノースマイル_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スノースマイル ~ringing version~",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/03_スノースマイル_~ringing_version~_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "スノースマイル",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/04_スノースマイル_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "スノースマイル",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/05_スノースマイル_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "スノースマイル (BUMP OF CHICKEN TOUR 2023 be there at SAITAMA SUPER ARENA - DAY1 -)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/06_スノースマイル_(BUMP_OF_CHICKEN_TOUR_2023_be_there_at_SAITAMA_SUPER_ARENA_-_DAY1_-)_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "スノースマイル",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/07_スノースマイル_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スノースマイル",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_スノースマイル_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
